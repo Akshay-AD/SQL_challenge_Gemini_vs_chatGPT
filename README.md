@@ -1,0 +1,1 @@
+# SQL_challenge_Gemini_vs_chatGPT
